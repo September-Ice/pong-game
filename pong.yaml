@@ -1,0 +1,12 @@
+timeout: 50 #ms
+refresh: 20 #ms
+
+structs:
+    Position: [int x, int y]
+    
+init_display: [int width, int height, Position p1, Position p2]
+display: [Position p1, Position p2,Position ball]
+input: [float vel]
+feedback: [Position me, Position opponent, Position ball]
+
+turn_based: False

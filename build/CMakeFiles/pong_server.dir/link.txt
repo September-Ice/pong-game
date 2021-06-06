@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/pong_server.dir/server.cpp.o  -o pong_server  -lpthread -lzmq 

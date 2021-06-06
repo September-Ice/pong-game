@@ -1,0 +1,7 @@
+/home/ecn/pong/build/CMakeFiles/install/strip.dir
+/home/ecn/pong/build/CMakeFiles/install/local.dir
+/home/ecn/pong/build/CMakeFiles/install.dir
+/home/ecn/pong/build/CMakeFiles/list_install_components.dir
+/home/ecn/pong/build/CMakeFiles/rebuild_cache.dir
+/home/ecn/pong/build/CMakeFiles/edit_cache.dir
+/home/ecn/pong/build/CMakeFiles/pong_server.dir
